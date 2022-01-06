@@ -19,7 +19,7 @@ Here is the live link
 https://mobilepoint.netlify.app/
 
 Client Side
-https://github.com/Avishekdevnath/Teamwork_MobilePoint_Client_Side
+https://github.com/Avishekdevnath/Teamwork_MobilePoint_Client_Side_Code
 
 
 Server Side
